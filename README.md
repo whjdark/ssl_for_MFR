@@ -1,3 +1,8 @@
+# requirements
+```
+pip install -r requirements.txt
+```
+
 # dataset
 https://aistudio.baidu.com/aistudio/datasetdetail/194177?lang=en
 
